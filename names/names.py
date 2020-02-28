@@ -24,7 +24,6 @@ for name_2 in names_2:
         duplicates.append(name_2)
 
 # Using dict 0.00498s
-names = names_1 + names_2
 seen = {}
 
 for name in names_1:

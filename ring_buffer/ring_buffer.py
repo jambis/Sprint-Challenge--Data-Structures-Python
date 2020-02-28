@@ -33,8 +33,6 @@ class RingBuffer:
             list_buffer_contents.append(node.value)
             node = node.next
 
-
-
         return list_buffer_contents
 
 # ----------------Stretch Goal-------------------
